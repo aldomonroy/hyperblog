@@ -1,0 +1,2 @@
+este texto es para practicar lo visto 
+en el curso profesional de git y github
